@@ -1,6 +1,6 @@
 {
   "name": "passkeys-js",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "description": "Javascript Passkey Authentication using WebAuthn Broweser API",
   "main": "index.js",
   "scripts": {
