@@ -1,0 +1,35 @@
+{
+  "name": "passkeys-js",
+  "version": "0.0.1",
+  "description": "Javascript Passkey Authentication using WebAuthn Broweser API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shyamnaik/passkeys-js.git"
+  },
+  "keywords": [
+    "passkeys",
+    "passkeys",
+    "authentication",
+    "webauthn",
+    "reactjs",
+    "nextjs",
+    "passkey",
+    "auth",
+    "with",
+    "reactjs",
+    "passkeys",
+    "with",
+    "nextjs",
+    "webauthn"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shyamnaik/passkeys-js/issues"
+  },
+  "homepage": "https://github.com/Shyamnaik/passkeys-js#readme"
+}
